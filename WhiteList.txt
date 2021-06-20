@@ -1,6 +1,6 @@
 #phimmoi.net
 geoip.redirect-ads.com
-whowhipi.net
+iamcdn.net
 
 #Google Chrome extension install
 ssl.google-analytics.com

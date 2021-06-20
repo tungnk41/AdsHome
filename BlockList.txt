@@ -1,2 +1,3 @@
 #phimmoii.net
 0.0.0.0 ss1.phimmoii.org
+0.0.0.0 whowhipi.net 

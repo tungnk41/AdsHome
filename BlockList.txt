@@ -1,1 +1,2 @@
-ss1.phimmoii.org
+#phimmoii.net
+0.0.0.0 ss1.phimmoii.org

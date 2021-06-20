@@ -1,2 +1,8 @@
 #phimmoi.net
 geoip.redirect-ads.com
+
+#Google Chrome extension install
+ssl.google-analytics.com
+
+#Facebook app
+graph.facebook.com
